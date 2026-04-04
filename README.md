@@ -50,4 +50,4 @@ This project is a humble tribute to **"The Hitchhiker's Guide to the Galaxy"** b
 
 ---
 
-💻*Developed with futile hope by **Pau**(and a very depressed android).*
+💻*Developed with futile hope by **Pau** (and a very depressed android).*
