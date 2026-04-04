@@ -1,4 +1,4 @@
-# 🌌 Don't Panic Assistant (if you must...)
+# 💡🦾 Don't Panic Assistant (if you must...)
 
 🤖 *"I'm Marvin I've written this README. It was a terrible experience, but I suppose you'll want to read it. I've calculated the odds of you actually running this app... and they're about as low as my current mood."*
 
@@ -42,7 +42,7 @@ It uses a brain the size of a planet (**Gemini 2.5 Flash**) to take a messy "bra
 * **Mindfulness Tips**: I've included tips to help you breathe. I don't breathe, but I'm told it's a popular human activity.
 
 ## 🧳 Important Note
-**Always carry a towel.** If you don't know why, you're probably in the wrong repository.
+**Always carry a towel.** 
 
 
 ## 📖 Credits & Lore
