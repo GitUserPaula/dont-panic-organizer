@@ -1,4 +1,4 @@
-# 💡🦾 Don't Panic Assistant (if you must...)
+# 💡🦾 Don't Panic! Assistant (if you must...)
 
 🤖 *"I'm Marvin I've written this README. It was a terrible experience, but I suppose you'll want to read it. I've calculated the odds of you actually running this app... and they're about as low as my current mood."*
 
@@ -50,4 +50,4 @@ This project is a humble tribute to **"The Hitchhiker's Guide to the Galaxy"** b
 
 ---
 
-*Developed with futile hope by **Pau** (and a very depressed android).*
+💻*Developed with futile hope by **Pau**(and a very depressed android).*
