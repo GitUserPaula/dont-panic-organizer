@@ -41,6 +41,12 @@ It uses a brain the size of a planet (**Gemini 2.5 Flash**) to take a messy "bra
 * **Sarcastic Feedback**: Don't expect me to be happy about it.
 * **Mindfulness Tips**: I've included tips to help you breathe. I don't breathe, but I'm told it's a popular human activity.
 
+<details>
+  <summary>📸 <b>Click here to see Marvin's interface</b></summary>
+  <br>
+  <img src="dontpanic_assets/Notes.PNG" alt="Don't Panic Organizer Preview" width="100%">
+</details>
+
 ## 🧳 Important Note
 **Always carry a towel.** 
 
