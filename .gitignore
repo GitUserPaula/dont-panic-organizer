@@ -1,0 +1,22 @@
+# Credentials
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+reportes/
+evidencias/
+*.html
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Streamlit
+.streamlit/
